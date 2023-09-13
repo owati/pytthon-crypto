@@ -1,0 +1,50 @@
+ASSIGNMENT ANSWERS
+<your student number here>, <your studentg name here>
+Do not change the stucture of this file. Paste / type your answers in the sections indicated.
+=============================
+=============================
+Task 0:
+a)
+-- average number of attempts to find a collision over the  1000  runs is  24.624
+
+
+b)
+-- modify the bithday_atack_statistics code to increase the search space from your birthday up to 24 September 2023
+-- run the code and report what the change was in the statistics by copying the last line of the console output below.
+-- average number of attempts to find a collision over the  1000  runs is  122.899
+
+=============================
+=============================
+Task 1:
+
+-- Creative Commons Corporation ("Creative Commons") is not a law firm and
+
+=============================
+=============================
+Task 2:
+
+-- gAAAAABk_PZcm52FdVQu
+
+=============================
+=============================
+Task 3:
+
+-- Success
+-- gAAAAABk_eZ_ajI1e5q7
+
+=============================
+=============================
+Task 4:
+
+-- �y���G�/u�;Dڊ�`+���֝�X�H�y��s
+
+
+=============================
+=============================
+Task 5:
+
+-- �?�&���aM
+
+�R5t
+B�o�/�8���,���
+
